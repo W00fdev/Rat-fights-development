@@ -118,9 +118,9 @@ MonoBehaviour:
   _followed: {fileID: 0}
   _isometric: 0
   _rotationAngleX: 20
-  _distance: 30
+  _distance: 40
   _offsetY: 1.5
-  _scrollingVelocity: 60
+  _scrollingVelocity: 250
   _fieldOfViewBounds: {x: 20, y: 30}
 --- !u!114 &2596706271118363857
 MonoBehaviour:
@@ -136,13 +136,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _followed: {fileID: 0}
   _isometric: 1
-  _rotationAngleX: 70
+  _rotationAngleX: 60
   _distance: 50
   _offsetY: 0
-  _scrollingVelocity: 100
-  _fieldOfViewBounds: {x: 30, y: 60}
-  _axisMovementVelocity: 75
-  _mouseMovementVelocity: 10
-  _rotationVelocity: 50
+  _scrollingVelocity: 500
+  _fieldOfViewBounds: {x: 30, y: 40}
+  _axisMovementVelocity: 60
+  _mouseMovementVelocity: 30
+  _rotationVelocity: 100
   _isWheelMoveInversionEnabled: 0
   _outOfWindowOffset: {x: 10, y: 10}
